@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>test</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form action="/my-handling-form-page" method="post">
+            <br>
+            <br>
+            <div>
+                <label for="size_2">名称</label>
+                <article class="article">
+                    <input id="msg1" name="user_message1">
+                    <span id="demo1">必填，长度为4-16个字符</span>
+                </article>
+                <button id="button1" type="reset" onclick = "valid1()">验证</button>
+            </div>
+            <div>
+                <label for="msg">名称</label>
+                <article class="article">
+                    <input id="msg2" name="user_message2">
+                    <span id="demo2">每个英文字母、数字、英文符号长度为1</span>
+                </article>
+                <button id="button2" type="reset" onclick = "valid2()">验证</button>
+            </div>
+            <div>
+                <label for="msg">名称</label>
+                <article class="article">
+                    <input id="msg3" name="user_message3">
+                    <span id="demo3">每个汉字，中文符号长度为2</span>
+                </article>
+                <button id="button3" type="reset" onclick = "valid3()">验证</button>
+            </div>
+
+        </form>
+        <script type="text/javascript" src = "helper.js">
+
+        </script>
+    </body>
+</html>

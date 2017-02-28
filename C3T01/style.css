@@ -1,0 +1,36 @@
+label {
+  /* To make sure that all labels have the same size and are properly aligned */
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    font-size: 30px;
+    margin: 10px 30px 30px 30px;
+}
+
+body {
+    text-align: left;
+
+}
+
+div {
+    display: inline-flex;
+    margin-top: 50px;
+}
+
+input {
+    width: 350px;
+    height: 50px;
+
+}
+
+button {
+    margin-left: 30px;
+    height: 50px;
+    width: 100px;
+    font-size: 30px;
+}
+
+article {
+    height: 100px;
+    width: 350px;
+}
