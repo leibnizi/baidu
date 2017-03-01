@@ -1,0 +1,82 @@
+#demo1 {
+    display: block;
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+
+#msg1 {
+    width: 700px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+
+label {
+    position: absolute;
+    left: 90px;
+}
+
+#msg2 {
+    width: 700px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+
+#demo2 {
+    display: block;
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+
+#msg3 {
+    width: 700px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+
+#demo3 {
+    display: block;
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+
+#msg4 {
+    width: 700px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+
+#demo4 {
+    display: block;
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+
+#msg5 {
+    width: 700px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 150px;
+}
+
+#demo5 {
+    display: block;
+    position: relative;
+    left: 150px;
+    margin-top: 10px;
+}
+button {
+    position: absolute;
+    left: 780px;
+    width: 80px;
+    height: 30px;
+    margin-top: 40px;
+    background-color: #0098ff;
+}
