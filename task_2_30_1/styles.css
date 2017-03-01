@@ -10,6 +10,7 @@
     height: 30px;
     border-radius: 5px;
     margin-left: 150px;
+    border: 1px solid #ccc;
 }
 
 label {
@@ -22,6 +23,7 @@ label {
     height: 30px;
     border-radius: 5px;
     margin-left: 150px;
+    border: 1px solid #ccc;
 }
 
 #demo2 {
@@ -36,6 +38,7 @@ label {
     height: 30px;
     border-radius: 5px;
     margin-left: 150px;
+    border: 1px solid #ccc;
 }
 
 #demo3 {
@@ -50,6 +53,7 @@ label {
     height: 30px;
     border-radius: 5px;
     margin-left: 150px;
+    border: 1px solid #ccc;
 }
 
 #demo4 {
@@ -64,6 +68,7 @@ label {
     height: 30px;
     border-radius: 5px;
     margin-left: 150px;
+    border: 1px solid #ccc;
 }
 
 #demo5 {
