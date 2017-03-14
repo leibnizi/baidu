@@ -1,0 +1,27 @@
+th {
+    width: 29px;
+    height: 29px;
+    border: 1px solid gray;
+    margin: 0;
+    padding: 0;
+}
+
+.big {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.small {
+    border-collapse: collapse;
+}
+.hide {
+    border: 0 !important;
+}
+
+#drawing {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 158px;
+    left: 129px;
+}
